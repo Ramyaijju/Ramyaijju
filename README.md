@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ramyaijju
-- 👀 I’m interested in Web development ,DevOps
+- 👀 I’m interested in Web development ,DevOps,python programming
 - 🌱 I’m currently learning Aws,javascript
 - 📫 How to reach me ijjuramya02@gmail.com
